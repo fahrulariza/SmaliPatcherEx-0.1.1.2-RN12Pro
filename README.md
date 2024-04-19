@@ -1,5 +1,5 @@
-# SmaliPatcherEx-0.1.1.2 FOR REDMI NOTE 12 PRO MIUI 14.0.1.0[THGIDXN] (ID)
-**The Smali Patcher provides a range of convenient features for Android smartphone users Redmi Note 12 Pro (ID) 14.0.1.0 (THGIDXN)**
+# SmaliPatcherEx-0.1.1.2 FOR REDMI NOTE 12 PRO MIUI 14.0.1.0[THGIDXN] (ID) Android 13
+**The Smali Patcher provides a range of convenient features for Android smartphone users Redmi Note 12 Pro (ID) 14.0.1.0 (THGIDXN) Android 13**
 
 including:
 
