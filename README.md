@@ -23,4 +23,4 @@ High Volume Warning Disable: This feature deactivates the high-volume popup dial
 
 In conclusion, the Smali Patcher is an invaluable tool that can help you streamline tasks and improve your overall experience with your Android smartphone.
 
-[https://xdaforums.com/t/module-smali-patcher-7-4.3680053/](https://xdaforums.com/t/module-smalipatcherex-1-1-2.4627905/)
+[XDA FORUM](https://xdaforums.com/t/module-smalipatcherex-1-1-2.4627905/)
