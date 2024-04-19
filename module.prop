@@ -1,0 +1,8 @@
+id=smalipatcherex
+name=SmaliPatcherEx
+version=v0.1.1.2
+versionCode=1
+author=sabpprook
+description=framework patches Redmi Note 12 Pro MIUI 14.0.1.0[THGIDXN](support mock location after Android 12)
+minMagisk=20200
+updateJson=https://raw.githubusercontent.com/fahrulariza/SmaliPatcherEx-0.1.1.2-RN12Pro/update/SmaliPatcherModule.json
